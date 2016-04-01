@@ -1,0 +1,28 @@
+name: Flama Empreendimentos
+favicon: null
+layout_spectrum: 0.8977146784309298
+typography_spectrum: 0.810469243908301
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.7564348774030805
+  lightness: 0.5467980627436191
+  saturation: 0.7136656136717647
+  rhythmicContrast: 0.3241942117456347
+purpose: []
